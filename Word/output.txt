@@ -1,0 +1,24 @@
+a                  1
+
+another            1
+
+different          2
+
+is                 2
+
+sample             2
+
+sentence           2
+
+several            2
+
+this               2
+
+with               2
+
+words              2
+
+
+
+size: 10
+is empty: false
